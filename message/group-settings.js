@@ -38,9 +38,9 @@ module.exports = async(client, anu) => {
 				         }
 				         buffer = await getBuffer(ppimg)
                          let but = [{
-						 "buttonId": `INFO BOTZ`,
+						 "buttonId": `𝐎𝐊𝐄`,
 						 "buttonText": {
-						 "displayText": `ɪɴғᴏ ʙᴏᴛᴢ`},
+						 "displayText": `𝐒𝐈𝐀𝐏`},
 						 "type": "RESPONSE"},{
 						 "buttonId": `${prefix}menu`,
 						 "buttonText": {
